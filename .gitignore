@@ -1,0 +1,14 @@
+# Trained models
+*.keras
+*.h5
+*.pkl
+
+# Test Images
+uploaded_image.jpg
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
